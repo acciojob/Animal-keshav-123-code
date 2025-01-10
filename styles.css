@@ -5,15 +5,17 @@
 	padding: 5px;
 	margin: 5px;
 }
-#animal-photos{
+#animal-photos {
 	background-color: grey;
-	display:grid;
-	grid-template-columns: 1fr 1fr 1fr
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
 }
+
 body{
 	background-color:black;
 }
 img{
-	border-radius:40;
-	margin:10px;
+
+	border-radius: 40px;
+	margin: 10px;
 }
